@@ -1,0 +1,11 @@
+---
+title: "MMMOO Workshop @ PPSN 2024"
+---
+
+In our workshop on multimodal multi-objective optimization (**MMMOO Workshop**), we will discuss properties and challenges, but also opportunities, of multimodality in multi-objective optimization.
+The workshop is organized jointly by **Heike Trautmann**, **Oliver Schütze** and **Lennart Schäpermeier** at the [PPSN 2024 conference](https://ppsn2024.fh-ooe.at).
+It is scheduled for Sunday, September 15th 1:30PM – 5:00PM.
+
+Learn more about the [goals of this workshop](./about.qmd) and about the [organizers](organizers.qmd).
+
+A list of speakers will be announced shortly.

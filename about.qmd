@@ -1,0 +1,16 @@
+---
+title: "About"
+bibliography: references.bib
+---
+
+In the context of optimization, **multimodality** describes the existence of multiple locally (or globally) optimal solutions.
+Multimodality is often one of the main challenges associated with optimizing a given problem and thus one of the main properties that is considered when developing optimization algorithms and designing benchmark sets to evaluate and compare state-of-the-art methods.
+Additionally, decision makers are often interested in more than one (best) solution to a given optimization problem, and want to be offered a variety of good alternative solutions with different characteristics.
+Sometimes, especially in practical applications, near-optimal solutions with specific properties are considered interesting as well, justifying the need for finding and characterizing locally optimal solutions as well.
+
+While multimodality is extensively studied for single-objective problems [@preuss2015;@CEC2013NichingCompetition], it is **only beginning to be understood in the domain of multi-objective (MO) optimization**, where optimal trade-offs between multiple, conflicting objectives are sought.
+Formal descriptions of multimodal multi-objective (MMO) problems have only recently been developed [@Grimme2021], and there still exist different viewpoints on the subject within the evolutionary computation community [@Cosson22;@Tanabe2019survey;@schuetze_archivers:21;@schuetze:24].
+MMO problems prove to give rise to new challenges in problem formulation and optimizer convergence, but also new opportunities: It turns out that what is thought to be local search traps can often serve as a guide to further exploration of the search space, leading to dominating solutions [@GrimmeKT2019Multimodality;@schaepermeier2022mole].
+
+In our workshop, we strive to discuss perspectives from different MMO communities and try to foster collaborations and the exchange of challenges, solution approaches and tools to study MMO landscapes in different problem domains.
+We invite presentations covering various optimization problem domains (continuous/numeric, discrete/combinatorial) as well as presentations in the realm of machine learning (ML) and algorithm configuration, where configuration landscapes are oftentimes multi-objective and multimodal simultaneously.

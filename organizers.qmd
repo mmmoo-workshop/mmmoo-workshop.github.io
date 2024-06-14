@@ -1,0 +1,30 @@
+---
+title: "Organizers"
+---
+
+::: {layout=[1,2]}
+
+![](media/heike_trautmann.jpg){width=100%}
+
+**Heike Trautmann** is professor of *Machine Learning and Optimisation* at the University of Paderborn, Germany. Her research mainly focuses on (Trustworthy) Artificial Intelligence, Machine Learning, Data Science, Automated Algorithm Selection and Configuration, Exploratory Landscape Analysis, (Multi-objective) Evolutionary Optimisation and Data Stream Mining. She is also (Guest) Professor of Data Science in the Data Management and Biometrics group at the University of Twente (NL) and until 2023, she was with the Department of Information Systems, University of Münster, Germany for ten years as Professor of Data Science: Statistics and Optimization. She is associate editor of the Evolutionary Computation Journal (ECJ) and the IEEE Transactions on Evolutionary Computation (TEVC) as well as member of the ACM Sigevo Executive Board.
+
+:::
+
+::: {layout=[1,2]}
+
+![](media/lennart_schaepermeier.jpg){width=100%}
+
+**Lennart Schäpermeier** is a research assistant at the group of *Big Data Analytics in Transportation* at TU Dresden, Germany. He previously received his Bachelor's and Master's degrees in *Information Systems* at the University of Münster, Germany. His main research interests lie in multi-objective optimization, exploratory landscape analysis, benchmarking and automated algorithm selection. He is a general chair of the [COSEAL](https://coseal.net) network, member of [ScaDS.AI Dresden/Leipzig](https://scads.ai), and developer of the [moPLOT dashboard](https://schaepermeier.shinyapps.io/moPLOT) for visualizing numeric multi-objective test problems.
+
+:::
+
+::: {layout=[1,2]}
+
+![](media/oliver_schuetze.jpg){width=100%}
+
+**Oliver Schütze** received a PhD in Mathematics from the University of Paderborn, Germany, in 2004. He is currently professor at the Cinvestav-IPN in Mexico City, Mexico. His research interests focus on numerical and evolutionary optimization with an emphasis on multi-objective optimization problems. He is Editor-in-Chief of the journal Mathematical and Computational Applications, and member of the Editorial Board for Applied Soft Computing, Computational Optimization and Applications, Engineering Optimization, Results in Control and Optimization, and IEEE Transactions on Evolutionary Computation. He is founder of the workshop series Numerical and Evolutionary Optimization (NEO).
+
+:::
+
+
+
