@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mmmoo-workshop.github.io/about.html</loc>
-    <lastmod>2024-06-14T14:25:41.211Z</lastmod>
+    <loc>https://mmmoo-workshop.github.io/margin.html</loc>
+    <lastmod>2024-06-22T12:06:53.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mmmoo-workshop.github.io/index.html</loc>
+    <lastmod>2024-06-14T14:51:39.893Z</lastmod>
   </url>
   <url>
     <loc>https://mmmoo-workshop.github.io/organizers.html</loc>
     <lastmod>2024-06-14T14:25:36.281Z</lastmod>
   </url>
   <url>
-    <loc>https://mmmoo-workshop.github.io/index.html</loc>
-    <lastmod>2024-06-14T14:51:39.893Z</lastmod>
+    <loc>https://mmmoo-workshop.github.io/about.html</loc>
+    <lastmod>2024-06-14T14:25:41.211Z</lastmod>
   </url>
 </urlset>
