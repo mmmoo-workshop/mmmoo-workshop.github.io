@@ -1,0 +1,11 @@
+Organizing Groups:
+
+[![MALEO](media/maleo.png){width=80%}](https://www.maleo-research.de)
+
+[![Big Data Analytics in Transportation](media/bda.png){width=80%}](https://tu-dresden.de/bu/verkehr/ivw/bda)
+
+[![NEO](media/neo.jpg){width=80%}](https://neo.cinvestav.mx/Group/index.php)
+
+Venue:
+
+[![PPSN 2024](media/ppsn2024.svg){width=80%}](https://ppsn2024.fh-ooe.at)

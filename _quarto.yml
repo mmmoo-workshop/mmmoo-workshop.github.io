@@ -11,9 +11,14 @@ website:
         text: About
       - href: organizers.qmd
         text: Organizers
-  page-footer: |
-    Created by Lennart Schäpermeier using [Quarto](https://quarto.org).  
-    [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) except where noted otherwise.
+  page-footer:
+    center: |
+      Created with ♥ by Lennart Schäpermeier using [Quarto](https://quarto.org).  
+      Hosted using [GitHub Pages](https://pages.github.com).
+  
+  margin-footer: margin.qmd
+
+fig-align: left
 
 format:
   html:
