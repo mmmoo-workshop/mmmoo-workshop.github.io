@@ -11,7 +11,14 @@
     "href": "index.html",
     "title": "MMMOO Workshop @ PPSN 2024",
     "section": "",
-    "text": "In our workshop on multimodal multi-objective optimization (MMMOO Workshop), we will discuss properties and challenges, but also opportunities, of multimodality in multi-objective optimization. The workshop is organized jointly by Heike Trautmann, Oliver Schütze and Lennart Schäpermeier at the PPSN 2024 conference. It is scheduled for Sunday, September 15th 1:30PM – 5:00PM.\nLearn more about the goals of this workshop and about the organizers.\nA list of speakers will be announced shortly."
+    "text": "In our workshop on multimodal multi-objective optimization (MMMOO Workshop), we will discuss properties and challenges, but also opportunities, of multimodality in multi-objective optimization. The workshop is organized jointly by Heike Trautmann, Oliver Schütze and Lennart Schäpermeier at the PPSN 2024 conference. It is scheduled for Sunday, September 15th 1:30PM – 5:00PM.\nLearn more about the goals of this workshop and about the organizers."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "MMMOO Workshop @ PPSN 2024",
+    "section": "Schedule",
+    "text": "Schedule\nBelow, you find the preliminary schedule for the workshop. We start with three overview talks in the first part of the workshop. After a short break, we’ll follow up with a few shorter talks on recent research projects. Finally, we want to bring everyone together in an open discussion on commonalities, differences, and future potentials of MMMOO research.\n\n\n\n\n\n\n\n\n Time\n Speaker\n Title\n\n\n\n\nOverview Talks\n\n\n\n\n1:30PM - 2:00PM\nLennart Schäpermeier\nOverview of Continuous Multimodal Multi-objective Optimization\n\n\n2:00PM - 2:30PM\nOfer Shir\nOvercoming Coupon Collector’s Syndrome on Multimodal Domains\n\n\n2:30PM - 3:00PM\nArnaud Liefhooghe (remote)\nInsights into the Multimodality of Multi-Objective Combinatorial Landscapes\n\n\nBreak (3:00PM - 3:30PM)\n\n\n\n\nCombinatorial Domain\n\n\n\n\n3:30PM - 3:40PM\nOliver Preuss\nOn the Dominance of Omni-Optimizer in MNK-Landscapes\n\n\n3:40PM - 3:50PM\nGabriela Ochoa\nMulti-objective trajectories and landscapes: a complex networks view\n\n\n Continuous Domain\n\n\n\n\n3:50PM - 4:00PM\nOliver Schütze\nNearly optimal solutions in the context of multimodal multi-objective optimization\n\n\n4:00PM - 4:10PM\nTBA\nTBA\n\n\n4:10PM - 4:20PM\nHisao Ishibuchi\nHow to choose a set of well-distributed solutions in both the decision and objective spaces\n\n\n4:20PM - 4:30PM\nMiqing Li\nVisualising the Landscape of (Multimodal) Multiobjective Optimisation Problems\n\n\n4:30PM - 5:00PM\n\nDiscussion"
   },
   {
     "objectID": "organizers.html",
