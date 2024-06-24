@@ -1,5 +1,7 @@
 ---
 title: "MMMOO Workshop @ PPSN 2024"
+tbl-cap-location: top
+toc: false
 ---
 
 In our workshop on multimodal multi-objective optimization (**MMMOO Workshop**), we will discuss properties and challenges, but also opportunities, of multimodality in multi-objective optimization.
@@ -8,4 +10,28 @@ It is scheduled for Sunday, September 15th 1:30PM – 5:00PM.
 
 Learn more about the [goals of this workshop](./about.qmd) and about the [organizers](organizers.qmd).
 
-A list of speakers will be announced shortly.
+## Schedule
+
+Below, you find the preliminary schedule for the workshop.
+We start with three overview talks in the first part of the workshop.
+After a short break, we'll follow up with a few shorter talks on recent research projects.
+Finally, we want to bring everyone together in an open discussion on commonalities, differences, and future potentials of MMMOO research.
+
+|  Time |  Speaker |  Title |
+|-------|----------|--------|
+| **Overview Talks** | | | {.dark}
+| 1:30PM - 2:00PM | Lennart Schäpermeier | Overview of Continuous Multimodal Multi-objective Optimization |
+| 2:00PM - 2:30PM | Ofer Shir | Overcoming Coupon Collector's Syndrome on Multimodal Domains |
+| 2:30PM - 3:00PM | Arnaud Liefhooghe (remote) | Insights into the Multimodality of Multi-Objective Combinatorial Landscapes |
+| **Break** (3:00PM - 3:30PM) |
+| **Combinatorial Domain** |
+| 3:30PM - 3:40PM | Oliver Preuss | On the Dominance of Omni-Optimizer in MNK-Landscapes |
+| 3:40PM - 3:50PM | Gabriela Ochoa | Multi-objective trajectories and landscapes: a complex networks view |
+| **Continuous Domain** |
+| 3:50PM - 4:00PM | Oliver Schütze | Nearly optimal solutions in the context of multimodal multi-objective optimization |
+| 4:00PM - 4:10PM | TBA | TBA |
+| 4:10PM - 4:20PM | Hisao Ishibuchi | How to choose a set of well-distributed solutions in both the decision and objective spaces |
+| 4:20PM - 4:30PM | Miqing Li | Visualising the Landscape of (Multimodal) Multiobjective Optimisation Problems |
+| 4:30PM - 5:00PM |   | Discussion |
+
+: {tbl-colwidths="[30,25,45]"}
