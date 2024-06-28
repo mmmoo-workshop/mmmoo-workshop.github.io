@@ -19,10 +19,13 @@ Finally, we want to bring everyone together in an open discussion on commonaliti
 
 |  Time |  Speaker |  Title |
 |-------|----------|--------|
-| **Overview Talks** | | | {.dark}
-| 1:30PM - 2:00PM | Lennart Schäpermeier | Overview of Continuous Multimodal Multi-objective Optimization |
-| 2:00PM - 2:30PM | Ofer Shir | Overcoming Coupon Collector's Syndrome on Multimodal Domains |
-| 2:30PM - 3:00PM | Arnaud Liefhooghe (remote) | Insights into the Multimodality of Multi-Objective Combinatorial Landscapes |
+| **Overview Talks** | | |
+| 1:30PM - 1:50PM | Lennart Schäpermeier | Overview of Continuous Multimodal Multi-objective Optimization |
+| 1:50PM - 2:00PM |   | Discussion |
+| 2:00PM - 2:20PM | Ofer Shir | Overcoming Coupon Collector's Syndrome on Multimodal Domains |
+| 2:20PM - 2:30PM |   | Discussion |
+| 2:30PM - 2:50PM | Arnaud Liefhooghe (remote) | Insights into the Multimodality of Multi-Objective Combinatorial Landscapes |
+| 2:50PM - 3:00PM |   | Discussion |
 | **Break** (3:00PM - 3:30PM) |
 | **Combinatorial Domain** |
 | 3:30PM - 3:40PM | Oliver Preuss | On the Dominance of Omni-Optimizer in MNK-Landscapes |
