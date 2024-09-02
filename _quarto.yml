@@ -13,7 +13,7 @@ website:
         text: Organizers
   page-footer:
     center: |
-      Created with ♥ by Lennart Schäpermeier using [Quarto](https://quarto.org).  
+      Created with ♥ by [Lennart Schäpermeier](https://schaepermeier.github.io) using [Quarto](https://quarto.org).  
       Hosted using [GitHub Pages](https://pages.github.com).
   
   margin-footer: margin.qmd
