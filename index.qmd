@@ -32,7 +32,7 @@ Finally, we want to bring everyone together in an open discussion on commonaliti
 | 3:40PM - 3:50PM | Gabriela Ochoa | Multi-objective trajectories and landscapes: a complex networks view |
 | **Continuous Domain** |
 | 3:50PM - 4:00PM | Oliver Schütze | Nearly optimal solutions in the context of multimodal multi-objective optimization |
-| 4:00PM - 4:10PM | TBA | TBA |
+| 4:00PM - 4:10PM | Urban Skvorc | Behaviour of (1+1) and (5+1) EA on Multimodal MO Landscapes |
 | 4:10PM - 4:20PM | Hisao Ishibuchi | How to choose a set of well-distributed solutions in both the decision and objective spaces |
 | 4:20PM - 4:30PM | Miqing Li | Visualising the Landscape of (Multimodal) Multiobjective Optimisation Problems |
 | 4:30PM - 5:00PM |   | Discussion |
