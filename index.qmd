@@ -24,7 +24,7 @@ Finally, we want to bring everyone together in an open discussion on commonaliti
 | 1:50PM - 2:00PM |   | Discussion |
 | 2:00PM - 2:20PM | Ofer Shir | Overcoming Coupon Collector's Syndrome on Multimodal Domains |
 | 2:20PM - 2:30PM |   | Discussion |
-| 2:30PM - 2:50PM | Arnaud Liefhooghe (remote) | Insights into the Multimodality of Multi-Objective Combinatorial Landscapes |
+| 2:30PM - 2:50PM | Arnaud Liefooghe (remote) | Insights into the Multimodality of Multi-Objective Combinatorial Landscapes |
 | 2:50PM - 3:00PM |   | Discussion |
 | **Break** (3:00PM - 3:30PM) |
 | **Combinatorial Domain** |
